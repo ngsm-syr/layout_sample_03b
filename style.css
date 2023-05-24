@@ -50,8 +50,8 @@ header {
 main {
   background: #EEE;
   padding: 20px;
-  grid-column-start: 2;
-  grid-column-end: 5;
+  grid-column-start: 1;
+  grid-column-end: 4;
   grid-row-start: 3;
   grid-row-end: 4;
 }
@@ -64,8 +64,8 @@ article {
 
 aside {
   background: #DDD;
-  grid-column-start: 1;
-  grid-column-end: 2;
+  grid-column-start: 4;
+  grid-column-end: 5;
   grid-row-start: 3;
   grid-row-end: 4;
 }
